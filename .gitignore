@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###OSX###
 
 .DS_Store
@@ -37,3 +38,7 @@ node_modules/
 .floobit
 .floo
 .flooignore
+=======
+dist/assets/bundle.js
+node_modules/
+>>>>>>> origin/master

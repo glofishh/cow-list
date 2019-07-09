@@ -17,7 +17,11 @@ module.exports = {
         test : /\.jsx?/,
         include : SRC_DIR,
         exclude: /node_modules/,
+<<<<<<< HEAD
         loader : 'babel-loader',
+=======
+        loader : 'babel-loader',      
+>>>>>>> origin/master
         query: {
           presets: ['@babel/preset-env', '@babel/preset-react']
         }
